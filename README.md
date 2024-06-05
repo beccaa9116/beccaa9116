@@ -4,7 +4,7 @@
 
 I'm Becca, a passionate coder who loves all things tech and creativity. Here's a little about me:
 
-- 💻 Currently studying Computer Science.
+- 💻 Currently studying Data Analytics.
 - 🎨 Love designing and creating beautiful interfaces.
 - 🌟 Always exploring new technologies and learning something new.
 - 📚 Constantly improving my coding skills.
