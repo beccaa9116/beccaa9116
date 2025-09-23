@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub profile! 🌸
 
-I'm Becca, a passionate coder who loves all things tech and creativity. Here's a little about me:
+I'm Becca, a data enthusiast. Here's a little about me:
 
 - 💻 Currently studying Data Science.
 - 🎨 Love designing and creating beautiful interfaces.
