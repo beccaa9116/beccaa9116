@@ -11,7 +11,7 @@ I'm Becca, a data enthusiast. Here's a little about me:
 
 ### What I'm Up To:
 
-- 🌱 Currently learning java and improving my front-end skills.
+- 🌱 Currently learning R and improving my data analysis skills
 - 🔭 Exploring different open-source projects.
 - 💡 Working on personal projects to enhance my skills.
 
